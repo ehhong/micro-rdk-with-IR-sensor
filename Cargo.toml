@@ -30,7 +30,7 @@ embedded-hal = { version = "~0.2", features = ["unproven"]}
 embedded-svc = "0.27"
 futures-lite = "2"
 log = "0.4"
-hw201 = { path = "https://github.com/ehhong/HW201-viam-module" }
+hw201 = { path = "https://github.com/ehhong/HW201-viam-module.git" }
 
 [build-dependencies]
 cargo_metadata = "0.19"
